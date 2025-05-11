@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 909 1286" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath id="c0_6"><path d="M-.2 1286.6v-75.1h910v75.1Z"/></clipPath>
+<style type="text/css"><![CDATA[
+.g0_6{
+fill: #000;
+}
+.g1_6{
+fill: none;
+stroke: #000;
+stroke-width: 0.763;
+stroke-linecap: square;
+stroke-miterlimit: 10;
+}
+.g2_6{
+fill: none;
+stroke: #000;
+stroke-width: 1.099;
+stroke-linecap: square;
+stroke-miterlimit: 10;
+}
+]]></style>
+</defs>
+<image clip-path="url(#c0_6)" preserveAspectRatio="none" x="-2" y="1212" width="930" height="127" xlink:href="img/1.jpg"/>
+<path d="M109.4 91.1H146v-.9H109.4v.9Z" class="g0_6"/>
+<path d="M402.7 91.1h36.7v-.9H402.7v.9Z" class="g0_6"/>
+<path d="M474.7 91.1h36.8v-.9H474.7v.9Z" class="g0_6"/>
+<path d="M474.9 114.9h36.7V114H474.9v.9Z" class="g0_6"/>
+<path d="M548.3 114.9h36.6V114H548.3v.9Z" class="g0_6"/>
+<path d="M110.6 284.8h36.6v-.9H110.6v.9Z" class="g0_6"/>
+<path d="M355 308.6h36.7v-.9H355v.9Z" class="g0_6"/>
+<path d="M255.7 428.1h11m25.7 0h11.1M168.2 475.4H179m91.6 0h10.8m91.6 0h11.1m92.3 0h11.1" class="g1_6"/>
+<path d="M207.8 716.9H217" class="g2_6"/>
+<path d="M257.1 1131.1h36.6v-.9H257.1v.9Z" class="g0_6"/>
+<path d="M148.8 1154.9h36.6v-.9H148.8v.9Z" class="g0_6"/>
+<image preserveAspectRatio="none" x="44" y="87" width="56" height="57" xlink:href="img/2.jpg"/>
+<image preserveAspectRatio="none" x="44" y="282" width="56" height="57" xlink:href="img/3.jpg"/>
+<image preserveAspectRatio="none" x="735" y="260" width="95" height="114" xlink:href="img/4.jpg"/>
+<image preserveAspectRatio="none" x="44" y="568" width="56" height="56" xlink:href="img/5.jpg"/>
+<image preserveAspectRatio="none" x="44" y="727" width="56" height="57" xlink:href="img/6.jpg"/>
+<image preserveAspectRatio="none" x="44" y="861" width="56" height="56" xlink:href="img/7.jpg"/>
+<image preserveAspectRatio="none" x="44" y="985" width="56" height="56" xlink:href="img/8.jpg"/>
+<image preserveAspectRatio="none" x="44" y="1104" width="56" height="56" xlink:href="img/9.jpg"/>
+</svg>

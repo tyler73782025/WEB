@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 909 1286" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath id="c0_45"><path d="M-.2 1286.6v-57.8h910v57.8Z"/></clipPath>
+<style type="text/css"><![CDATA[
+.g0_45{
+fill: #FFFFF7;
+}
+.g1_45{
+fill: #70AD47;
+}
+.g2_45{
+fill: none;
+stroke: #00F;
+stroke-width: 1.069;
+stroke-linecap: square;
+stroke-miterlimit: 10;
+}
+.g3_45{
+fill: none;
+stroke: #390;
+stroke-width: 1.069;
+stroke-linecap: square;
+stroke-miterlimit: 10;
+}
+.g4_45{
+fill: none;
+stroke: #F00;
+stroke-width: 1.069;
+stroke-linecap: square;
+stroke-miterlimit: 10;
+}
+.g5_45{
+fill: #000;
+}
+.g6_45{
+fill: none;
+stroke: #000;
+stroke-width: 1.069;
+stroke-linecap: square;
+stroke-miterlimit: 10;
+}
+.g7_45{
+fill: none;
+stroke: #F00;
+stroke-width: 1.067;
+stroke-linecap: square;
+stroke-miterlimit: 10;
+}
+.g8_45{
+fill: none;
+stroke: #000;
+stroke-width: 1.067;
+stroke-linecap: square;
+stroke-miterlimit: 10;
+}
+.g9_45{
+fill: none;
+stroke: #0C0;
+stroke-width: 1.067;
+stroke-linecap: square;
+stroke-miterlimit: 10;
+}
+.ga_45{
+fill: none;
+stroke: #00F;
+stroke-width: 1.067;
+stroke-linecap: square;
+stroke-miterlimit: 10;
+}
+.gb_45{
+fill: #FCF;
+}
+.gc_45{
+fill: #96F;
+}
+]]></style>
+</defs>
+<image clip-path="url(#c0_45)" preserveAspectRatio="none" x="-2" y="1229" width="930" height="128" xlink:href="img/1.jpg"/>
+<path fill-rule="evenodd" d="M41.9 649.4c-1 0 -1.8 .8 -1.8 1.7v56.5c0 1 .8 1.7 1.8 1.7H877.1c1 0 1.8 -.7 1.8 -1.7V651.1c0 -.9 -.8 -1.7 -1.8 -1.7Z" class="g0_45"/>
+<path d="M60.7 71.5h.7v-.7h-.7v.7Z" class="g1_45"/>
+<path d="M60.7 71.5h.7v-.7h-.7v.7Z" class="g1_45"/>
+<path d="M61.4 71.5H461.3v-.7H61.4v.7Z" class="g1_45"/>
+<path d="M461.3 71.5h.7v-.7h-.7v.7Z" class="g1_45"/>
+<path d="M462 71.5H857.8v-.7H462v.7Z" class="g1_45"/>
+<path d="M857.8 71.5h.7v-.7h-.7v.7Z" class="g1_45"/>
+<path d="M857.8 71.5h.7v-.7h-.7v.7Z" class="g1_45"/>
+<path d="M60.7 126.5h.7v-55h-.7v55Z" class="g1_45"/>
+<path d="M461.3 126.5h.7v-55h-.7v55Z" class="g1_45"/>
+<path d="M857.8 126.5h.7v-55h-.7v55Z" class="g1_45"/>
+<path d="M117.3 281.7l79.2 -65.2" class="g2_45"/>
+<path d="M93.1 254.8l79.2 -65.2" class="g3_45"/>
+<path d="M105.7 268l79.2 -65.2" class="g4_45"/>
+<path d="M197.9 238.3l.4 -.3l.7 -.8l.2 -.4l.3 -.3l.2 -.4l.1 -.4l.1 -.4l.1 -.5v-.7l-.1 -.7l-.1 -.4l-.2 -.4l-.3 -.5V232l-.1 -.1l-.1 -.2l-.4 -.4l-.3 -.4l-.5 -.4l-.4 -.5l12.9 4.4l-12.9 4.4Z" class="g5_45"/>
+<path d="M92.1 234.7H200" class="g6_45"/>
+<path d="M150.3 186.3l-.4 -.5l-.5 -.4l-.5 -.4l-.3 -.1l-.2 -.2l-.5 -.2l-.5 -.1l-.5 -.1h-.4l-.5 .1h-.2l-.3 .1l-.8 .3l-.9 .5l-.8 .7l-.4 .4l-.4 .5l4.3 -13l4.4 13Z" class="g5_45"/>
+<path d="M146.8 288.8V184.3" class="g6_45"/>
+<path d="M371.8 288.1L292.6 223" class="g2_45"/>
+<path d="M393.7 262.8l-79.3 -65" class="g3_45"/>
+<path d="M379.9 273.8l-79.2 -65" class="g4_45"/>
+<path d="M398.3 250.4l.4 -.3l.6 -.8l.5 -.7l.2 -.4l.2 -.4l.1 -.5l.1 -.4v-.7l-.1 -.7l-.2 -.4l-.1 -.4l-.3 -.5l-.1 -.1V244l-.2 -.2l-.3 -.4l-.4 -.4l-.4 -.4l-.4 -.5l12.9 4.4l-12.9 4.3Z" class="g5_45"/>
+<path d="M292.5 246.8H400.4" class="g6_45"/>
+<path d="M350.7 198.5l-.5 -.5l-.5 -.4l-.5 -.3l-.2 -.2l-.3 -.1l-.5 -.2l-.5 -.2h-1.6l-.2 .1l-.8 .3l-.9 .5l-.9 .7l-.4 .4l-.4 .5l4.4 -12.9l4.3 12.9Z" class="g5_45"/>
+<path d="M347.2 300.7V196.6" class="g6_45"/>
+<path d="M649.8 218.7v-5.4" class="g7_45"/>
+<path d="M697.9 240l.4 -.3l.6 -.8l.5 -.7l.2 -.4l.2 -.4l.1 -.4l.1 -.5v-.7l-.1 -.7l-.2 -.4l-.1 -.4l-.3 -.4l-.1 -.2v-.1l-.2 -.1l-.3 -.5l-.4 -.4l-.4 -.4l-.5 -.4l13 4.3l-13 4.4Z" class="g5_45"/>
+<path d="M592.2 236.4H700" class="g8_45"/>
+<path d="M653.3 199.2l-.5 -.5l-.4 -.4l-.5 -.3l-.3 -.2l-.2 -.1l-.5 -.2l-.5 -.2H649l-.5 .1l-.8 .3l-.9 .6l-.8 .6l-.4 .4l-.4 .5l4.3 -12.9l4.4 12.9Z" class="g5_45"/>
+<path d="M649.8 275.5V197.3" class="g8_45"/>
+<path d="M686.4 236.4H596.2" class="g7_45"/>
+<path d="M684.2 217.6H595.7" class="g9_45"/>
+<path d="M684.8 255.4H596.2" class="ga_45"/>
+<path d="M60.7 127.2h.7v-.7h-.7v.7Z" class="g1_45"/>
+<path d="M61.4 127.2H255.6v-.7H61.4v.7Z" class="g1_45"/>
+<path d="M255.6 127.2h.7v-.7h-.7v.7Z" class="g1_45"/>
+<path d="M256.3 127.2h205v-.7h-205v.7Z" class="g1_45"/>
+<path d="M461.3 127.2h.7v-.7h-.7v.7Z" class="g1_45"/>
+<path d="M462 127.2H857.8v-.7H462v.7Z" class="g1_45"/>
+<path d="M857.8 127.2h.7v-.7h-.7v.7Z" class="g1_45"/>
+<path d="M60.7 319.9h.7V127.2h-.7V319.9Z" class="g1_45"/>
+<path d="M60.7 320.7h.7v-.8h-.7v.8Z" class="g1_45"/>
+<path d="M60.7 320.7h.7v-.8h-.7v.8Z" class="g1_45"/>
+<path d="M61.4 320.7H255.6v-.8H61.4v.8Z" class="g1_45"/>
+<path d="M255.6 319.9h.7V127.2h-.7V319.9Z" class="g1_45"/>
+<path d="M255.6 320.7h.7v-.8h-.7v.8Z" class="g1_45"/>
+<path d="M256.3 320.7h205v-.8h-205v.8Z" class="g1_45"/>
+<path d="M461.3 319.9h.7V127.2h-.7V319.9Z" class="g1_45"/>
+<path d="M461.3 320.7h.7v-.8h-.7v.8Z" class="g1_45"/>
+<path d="M462 320.7H857.8v-.8H462v.8Z" class="g1_45"/>
+<path d="M857.8 319.9h.7V127.2h-.7V319.9Z" class="g1_45"/>
+<path d="M857.8 320.7h.7v-.8h-.7v.8Z" class="g1_45"/>
+<path d="M857.8 320.7h.7v-.8h-.7v.8Z" class="g1_45"/>
+<path d="M67.4 345.1l-.9 -.1l-.7 -.2l-.6 -.4l-.6 -.6l-.3 -.3l-.2 -.4l-.3 -.7l-.2 -.9V327.4l.2 -.9l.3 -.8l.5 -.6l.6 -.6l.6 -.4l.7 -.3H99.6l.3 .1l.4 .2l.3 .2l.3 .2l.3 .2l.4 .4l.4 .6l.4 .8l.2 .9l.2 .9v12.4l-.1 .4h-.1v.4l-.1 .4l-.1 .2v.3l-.1 .1l-.1 .2l-.2 .4l-.2 .4l-.2 .1v.2l-.4 .3l-.1 .1l-.2 .2l-.3 .2l-.2 .1l-.1 .1h-.2l-.2 .1l-.3 .1l-.7 .1Z" class="gb_45"/>
+<path d="M67.4 371.8h-.9l-.7 -.3l-.6 -.4l-.6 -.5l-.3 -.4l-.2 -.3l-.3 -.8l-.2 -.9V354.1l.2 -.9l.3 -.7l.5 -.7l.6 -.6l.6 -.4l.7 -.2l.9 -.1H98.9l.7 .1l.3 .1l.4 .1l.3 .2l.3 .2l.3 .3l.4 .3l.4 .7l.4 .7l.2 .9l.2 .9v12.4l-.1 .4l-.1 .1v.3l-.1 .5l-.1 .2v.2l-.1 .2l-.1 .2l-.2 .4l-.2 .3l-.2 .2v.2l-.4 .2l-.1 .1l-.2 .2l-.3 .2l-.2 .1l-.1 .1h-.1l-.1 .1h-.2l-.3 .2h-.7Z" class="gb_45"/>
+<path d="M48.3 645.2l-.6 -.1h-.6l-1 -.3l-.9 -.4l-.8 -.5l-.4 -.4l-.3 -.3l-.3 -.4l-.2 -.4L43 642l-.1 -.4l-.1 -.5V628.4l.1 -1l.3 -.8l.5 -.8l.7 -.7l.8 -.5l.9 -.5l1 -.2l.6 -.1H94.5l.5 .1l.5 .1l.6 .1l.4 .2l.5 .3l.4 .2l.5 .3l.4 .4l.3 .3l.3 .4l.2 .4l.2 .4l.1 .4l.1 .5v13.2l-.1 .5l-.1 .4l-.2 .4l-.2 .4l-.3 .4l-.3 .3l-.3 .2l-.1 .2l-.5 .2l-.4 .3l-.5 .2l-.2 .1h-.2v.1h-.3v.1l-.3 .1l-.5 .1h-.8l-.2 .1Z" class="gc_45"/>
+</svg>

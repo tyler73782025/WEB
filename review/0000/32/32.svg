@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 909 1286" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath id="c0_32"><path d="M-.2 1286.6v-57.8h910v57.8Z"/></clipPath>
+<style type="text/css"><![CDATA[
+.g0_32{
+fill: #FFFFF3;
+}
+.g1_32{
+fill: #CFC;
+}
+.g2_32{
+fill: #70AD47;
+}
+.g3_32{
+fill: none;
+stroke: #000;
+stroke-width: 1.099;
+stroke-linecap: square;
+stroke-miterlimit: 10;
+}
+.g4_32{
+fill: #6C3;
+}
+.g5_32{
+fill: #C39;
+}
+.g6_32{
+fill: none;
+stroke: #000;
+stroke-width: 0.934;
+stroke-linecap: square;
+stroke-miterlimit: 10;
+}
+.g7_32{
+fill: #96F;
+}
+]]></style>
+</defs>
+<image clip-path="url(#c0_32)" preserveAspectRatio="none" x="-2" y="1229" width="930" height="128" xlink:href="img/1.jpg"/>
+<path fill-rule="evenodd" d="M100.3 1039.7c-2.7 0 -4.9 2.2 -4.9 4.9v155.7c0 2.7 2.2 4.9 4.9 4.9H842.6c2.7 0 4.9 -2.2 4.9 -4.9V1044.6c0 -2.7 -2.2 -4.9 -4.9 -4.9Z" class="g0_32"/>
+<path fill-rule="evenodd" d="M117.5 237.3c-2.2 0 -4 1.8 -4 4.1V370.7c0 2.3 1.8 4.1 4 4.1H861.3c2.2 0 4 -1.8 4 -4.1V241.4c0 -2.3 -1.8 -4.1 -4 -4.1Z" class="g0_32"/>
+<path fill-rule="evenodd" d="M71.1 181.5H861.9V154H71.1v27.5Z" class="g1_32"/>
+<path d="M79 181.5H854V154H79v27.5Z" class="g1_32"/>
+<path d="M70.4 154h.7v-.7h-.7v.7Z" class="g2_32"/>
+<path d="M70.4 154h.7v-.7h-.7v.7Z" class="g2_32"/>
+<path d="M71.1 154H861.9v-.7H71.1v.7Z" class="g2_32"/>
+<path d="M861.9 154h.7v-.7h-.7v.7Z" class="g2_32"/>
+<path d="M861.9 154h.7v-.7h-.7v.7Z" class="g2_32"/>
+<path d="M70.4 181.5h.7V154h-.7v27.5Z" class="g2_32"/>
+<path d="M861.9 181.5h.7V154h-.7v27.5Z" class="g2_32"/>
+<path d="M70.4 182.2h.7v-.7h-.7v.7Z" class="g2_32"/>
+<path d="M71.1 182.2H448.2v-.7H71.1v.7Z" class="g2_32"/>
+<path d="M448.2 182.2h.8v-.7h-.8v.7Z" class="g2_32"/>
+<path d="M449 182.2H861.9v-.7H449v.7Z" class="g2_32"/>
+<path d="M861.9 182.2h.7v-.7h-.7v.7Z" class="g2_32"/>
+<path d="M70.4 209.9h.7V182.2h-.7v27.7Z" class="g2_32"/>
+<path d="M70.4 210.7h.7v-.8h-.7v.8Z" class="g2_32"/>
+<path d="M70.4 210.7h.7v-.8h-.7v.8Z" class="g2_32"/>
+<path d="M71.1 210.7H448.2v-.8H71.1v.8Z" class="g2_32"/>
+<path d="M448.2 209.9h.8V182.2h-.8v27.7Z" class="g2_32"/>
+<path d="M448.2 210.7h.8v-.8h-.8v.8Z" class="g2_32"/>
+<path d="M449 210.7H861.9v-.8H449v.8Z" class="g2_32"/>
+<path d="M861.9 209.9h.7V182.2h-.7v27.7Z" class="g2_32"/>
+<path d="M861.9 210.7h.7v-.8h-.7v.8Z" class="g2_32"/>
+<path d="M861.9 210.7h.7v-.8h-.7v.8Z" class="g2_32"/>
+<path fill-rule="evenodd" d="M97.9 565.2h205V537.7H97.9v27.5Z" class="g1_32"/>
+<path d="M105.8 565.2H295V537.7H105.8v27.5Z" class="g1_32"/>
+<path fill-rule="evenodd" d="M303.6 565.2H861.9V537.7H303.6v27.5Z" class="g1_32"/>
+<path d="M311.5 565.2H854V537.7H311.5v27.5Z" class="g1_32"/>
+<path d="M97 537.7h.7V537H97v.7Z" class="g2_32"/>
+<path d="M97 537.7h.7V537H97v.7Z" class="g2_32"/>
+<path d="M97.7 537.7H302.9V537H97.7v.7Z" class="g2_32"/>
+<path d="M302.9 537.7h.7V537h-.7v.7Z" class="g2_32"/>
+<path d="M303.6 537.7H861.9V537H303.6v.7Z" class="g2_32"/>
+<path d="M861.9 537.7h.7V537h-.7v.7Z" class="g2_32"/>
+<path d="M861.9 537.7h.7V537h-.7v.7Z" class="g2_32"/>
+<path d="M97 565.2h.7V537.7H97v27.5Z" class="g2_32"/>
+<path d="M302.9 565.2h.7V537.7h-.7v27.5Z" class="g2_32"/>
+<path d="M861.9 565.2h.7V537.7h-.7v27.5Z" class="g2_32"/>
+<path d="M97 565.9h.7v-.7H97v.7Z" class="g2_32"/>
+<path d="M97.7 565.9H302.9v-.7H97.7v.7Z" class="g2_32"/>
+<path d="M302.9 565.9h.7v-.7h-.7v.7Z" class="g2_32"/>
+<path d="M303.6 565.9H861.9v-.7H303.6v.7Z" class="g2_32"/>
+<path d="M861.9 565.9h.7v-.7h-.7v.7Z" class="g2_32"/>
+<path d="M97 593.4h.7V565.9H97v27.5Z" class="g2_32"/>
+<path d="M861.9 593.4h.7V565.9h-.7v27.5Z" class="g2_32"/>
+<path fill-rule="evenodd" d="M97.9 621.7h205V594.2H97.9v27.5Z" class="g1_32"/>
+<path d="M105.8 621.7H295V594.2H105.8v27.5Z" class="g1_32"/>
+<path fill-rule="evenodd" d="M303.6 621.7H861.9V594.2H303.6v27.5Z" class="g1_32"/>
+<path d="M311.5 621.7H854V594.2H311.5v27.5Z" class="g1_32"/>
+<path d="M97 594.2h.7v-.8H97v.8Z" class="g2_32"/>
+<path d="M97.7 594.2H302.9v-.8H97.7v.8Z" class="g2_32"/>
+<path d="M302.9 594.2h.7v-.8h-.7v.8Z" class="g2_32"/>
+<path d="M303.6 594.2H861.9v-.8H303.6v.8Z" class="g2_32"/>
+<path d="M861.9 594.2h.7v-.8h-.7v.8Z" class="g2_32"/>
+<path d="M97 621.7h.7V594.2H97v27.5Z" class="g2_32"/>
+<path d="M302.9 621.7h.7V594.2h-.7v27.5Z" class="g2_32"/>
+<path d="M861.9 621.7h.7V594.2h-.7v27.5Z" class="g2_32"/>
+<path d="M97 622.4h.7v-.7H97v.7Z" class="g2_32"/>
+<path d="M97.7 622.4H302.9v-.7H97.7v.7Z" class="g2_32"/>
+<path d="M302.9 622.4h.7v-.7h-.7v.7Z" class="g2_32"/>
+<path d="M303.6 622.4H861.9v-.7H303.6v.7Z" class="g2_32"/>
+<path d="M861.9 622.4h.7v-.7h-.7v.7Z" class="g2_32"/>
+<path d="M97 649.9h.7V622.4H97v27.5Z" class="g2_32"/>
+<path d="M861.9 649.9h.7V622.4h-.7v27.5Z" class="g2_32"/>
+<path fill-rule="evenodd" d="M97.9 678.3h205V650.8H97.9v27.5Z" class="g1_32"/>
+<path d="M105.8 678.3H295V650.8H105.8v27.5Z" class="g1_32"/>
+<path fill-rule="evenodd" d="M303.6 678.3H861.9V650.8H303.6v27.5Z" class="g1_32"/>
+<path d="M311.5 678.3H854V650.8H311.5v27.5Z" class="g1_32"/>
+<path d="M97 650.6h.7v-.7H97v.7Z" class="g2_32"/>
+<path d="M97.7 650.6H302.9v-.7H97.7v.7Z" class="g2_32"/>
+<path d="M302.9 650.6h.7v-.7h-.7v.7Z" class="g2_32"/>
+<path d="M303.6 650.6H861.9v-.7H303.6v.7Z" class="g2_32"/>
+<path d="M861.9 650.6h.7v-.7h-.7v.7Z" class="g2_32"/>
+<path d="M97 678.3h.7V650.6H97v27.7Z" class="g2_32"/>
+<path d="M302.9 678.3h.7V650.6h-.7v27.7Z" class="g2_32"/>
+<path d="M861.9 678.3h.7V650.6h-.7v27.7Z" class="g2_32"/>
+<path d="M97 679.1h.7v-.8H97v.8Z" class="g2_32"/>
+<path d="M97.7 679.1H302.9v-.8H97.7v.8Z" class="g2_32"/>
+<path d="M302.9 679.1h.7v-.8h-.7v.8Z" class="g2_32"/>
+<path d="M303.6 679.1H861.9v-.8H303.6v.8Z" class="g2_32"/>
+<path d="M861.9 679.1h.7v-.8h-.7v.8Z" class="g2_32"/>
+<path d="M97 706.6h.7V679.1H97v27.5Z" class="g2_32"/>
+<path d="M97 707.3h.7v-.7H97v.7Z" class="g2_32"/>
+<path d="M97 707.3h.7v-.7H97v.7Z" class="g2_32"/>
+<path d="M97.7 707.3H861.9v-.7H97.7v.7Z" class="g2_32"/>
+<path d="M861.9 706.6h.7V679.1h-.7v27.5Z" class="g2_32"/>
+<path d="M861.9 707.3h.7v-.7h-.7v.7Z" class="g2_32"/>
+<path d="M861.9 707.3h.7v-.7h-.7v.7Z" class="g2_32"/>
+<path d="M364.1 871.6h13.2m49.5 0h12.3m10.8 0h55m73.3 0h36.7" class="g3_32"/>
+<path d="M66.9 477.7H66l-.8 -.3l-.7 -.4l-.7 -.5l-.3 -.4l-.3 -.3l-.3 -.7l-.3 -.8V459.9l.3 -.8l.3 -.8l.6 -.6l.7 -.6l.7 -.3l.8 -.3H80.3l.3 .1l.4 .2l.7 .3l.3 .3l.4 .3l.6 .6l.4 .8l.2 .8l.1 .9v13l-.1 .1v.4l-.2 .8l-.2 .3l-.1 .2l-.1 .2l-.3 .3l-.2 .2h-.1v.2l-.4 .2l-.3 .3l-.2 .1l-.1 .1l-.4 .2l-.4 .1h-.1l-.1 .1l-.1 .1h-.9Z" class="g4_32"/>
+<path d="M111.6 590l-.9 -.1l-.8 -.3l-.8 -.4l-.6 -.5l-.3 -.4l-.3 -.3l-.3 -.7l-.3 -.8V572.1l.3 -.8l.3 -.7l.6 -.7l.6 -.6l.8 -.3l.8 -.3h14.2l.4 .1l.4 .2l.7 .3l.3 .3l.4 .3l.6 .7l.4 .7l.2 .8l.1 .9v13l-.1 .1v.4l-.2 .8l-.2 .3l-.2 .2v.2l-.3 .3l-.2 .2l-.1 .1v.1l-.4 .2l-.3 .3l-.2 .1l-.2 .1l-.3 .2l-.4 .1h-.1l-.1 .1l-.2 .1h-.4l-.4 .1Z" class="g4_32"/>
+<path d="M111.8 646.9l-.9 -.1l-.8 -.3l-.7 -.4l-.7 -.5l-.3 -.4l-.2 -.3l-.4 -.7l-.3 -.8V629l.3 -.7l.4 -.8l.5 -.7l.7 -.6l.7 -.3l.8 -.3h14.3l.3 .1l.4 .2l.7 .3l.4 .3l.3 .3l.6 .7l.4 .8l.2 .7l.1 .9v13l-.1 .1v.4l-.2 .8l-.2 .3l-.1 .2l-.1 .2l-.3 .3l-.2 .2v.1h-.1v.1l-.3 .2l-.4 .3l-.2 .1l-.1 .1l-.4 .2l-.4 .2h-.2l-.1 .1h-.5l-.4 .1Z" class="g4_32"/>
+<path d="M111.2 703.2l-.9 -.1l-.8 -.3l-.7 -.4l-.7 -.5l-.3 -.4l-.3 -.3l-.3 -.7l-.3 -.8V685.3l.3 -.7l.3 -.8l.6 -.7l.7 -.6l.7 -.3l.8 -.3h14.3l.3 .1l.4 .2l.7 .3l.3 .3l.4 .3l.6 .7l.4 .8l.2 .7l.1 .9v13l-.1 .1v.4l-.2 .8l-.2 .3l-.1 .2l-.1 .2l-.3 .3l-.2 .2v.1h-.1v.1l-.4 .2l-.3 .3l-.2 .1l-.1 .1l-.4 .2l-.4 .2h-.2l-.1 .1h-.5l-.4 .1Z" class="g4_32"/>
+<path d="M286 559.5h-.5l-.5 -.2l-.5 -.3l-.4 -.3l-.4 -.4l-.1 -.3l-.1 -.2l-.1 -.2l-.1 -.3V544l.2 -.5l.2 -.4l.4 -.4l.4 -.4l.5 -.3l.5 -.1l.5 -.1h31.5l.5 .1h.3l.2 .1l.5 .3l.4 .4l.3 .4l.3 .4l.2 .5v13.3l-.1 .3l-.1 .2l-.1 .2l-.2 .3l-.3 .4l-.4 .3l-.3 .1l-.2 .2l-.2 .1l-.3 .1h-.5Z" class="g5_32"/>
+<path d="M286 616.1l-.5 -.1l-.5 -.2l-.5 -.2l-.4 -.4l-.4 -.4l-.1 -.2l-.1 -.2l-.1 -.3l-.1 -.2V600.6l.2 -.5l.2 -.5l.4 -.4l.4 -.4l.5 -.2l.5 -.2H318l.3 .1l.2 .1l.5 .2l.4 .4l.3 .4l.3 .5l.2 .5v13.3l-.1 .2l-.1 .3l-.1 .2l-.2 .2l-.3 .4l-.4 .4l-.3 .1l-.2 .1l-.2 .1l-.3 .1h-.2l-.3 .1Z" class="g5_32"/>
+<path d="M286.1 672.8l-.6 -.1l-.5 -.1l-.4 -.3l-.4 -.3l-.4 -.5l-.2 -.2v-.2l-.2 -.3V657.3l.2 -.5l.2 -.4l.4 -.4l.4 -.4l.4 -.3l.5 -.1l.6 -.1h31.5l.5 .1h.2l.3 .1l.4 .3l.5 .4l.3 .4l.3 .4l.1 .5l.1 .6v12.4h-.1v.5l-.1 .3l-.2 .2l-.1 .2l-.3 .5l-.5 .3l-.2 .1l-.2 .2l-.3 .1h-.5v.1h-.2Z" class="g5_32"/>
+<path d="M692.6 818.3H832M692.6 861L832 860.9M690.6 734.8L832 734.7M691.1 754l.9 -1.2l.7 -1.2l.7 -1.1l.5 -1.2l.4 -1.2l.3 -1.1l.1 -1.2l.1 -1.2v-1.2l-.2 -1.1l-.1 -.6l-.2 -.6l-.3 -1.2l-.6 -1.1l-.3 -.6l-.3 -.6l-.7 -1.2l-.4 -.6l-.5 -.5m1.4 40.5L832 775.7" class="g6_32"/>
+<path d="M60.4 261.1l-.7 -.1h-.5l-1 -.2l-1 -.4l-.8 -.6l-.4 -.3l-.3 -.4l-.2 -.4l-.2 -.4l-.2 -.4l-.1 -.4l-.1 -.5V244.3l.1 -1l.3 -.8l.4 -.8l.7 -.7l.8 -.5l1 -.4l1 -.3l.5 -.1h46.9l.5 .1l.5 .1l.5 .2l.5 .1l.5 .3l.4 .2l.5 .3l.3 .4l.4 .3l.2 .4l.3 .4l.2 .4l.1 .4l.1 .5V257l-.1 .5l-.1 .4l-.2 .4l-.3 .4l-.2 .4l-.4 .4l-.2 .1l-.1 .2l-.5 .3l-.4 .3l-.5 .2h-.4v.1l-.1 .1h-.3l-.2 .1l-.5 .1h-.8l-.3 .1Z" class="g7_32"/>
+<path d="M40.9 1063h-.6l-.6 -.1l-1 -.2l-.9 -.4l-.8 -.6l-.4 -.3l-.3 -.3l-.3 -.5l-.2 -.3l-.2 -.5l-.1 -.4l-.1 -.4v-12.8l.1 -.9l.3 -.9l.5 -.8l.7 -.6l.8 -.6l.9 -.4l1 -.3H87.6l.5 .1l.6 .2l.4 .2l.5 .2l.4 .2l.5 .4l.3 .3l.4 .3l.3 .4l.2 .4l.2 .4l.1 .5l.1 .4V1059l-.1 .4l-.1 .4l-.2 .5l-.2 .3l-.3 .5l-.4 .3l-.2 .1l-.1 .2l-.5 .3l-.4 .3l-.5 .2l-.2 .1h-.2v.1h-.3l-.3 .1l-.5 .1h-.3l-.2 .1h-.6Z" class="g7_32"/>
+</svg>

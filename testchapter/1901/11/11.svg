@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 909 1286" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath id="c0_11"><path d="M-.2 1286.6v-74.9h910v74.9Z"/></clipPath>
+<clipPath id="c1_11"><path d="M130.6 510V405.8H258.8V510Z"/></clipPath>
+<clipPath id="c2_11"><path d="M361.2 515.3V476.6H504.3v38.7Z"/></clipPath>
+<style type="text/css"><![CDATA[
+.g0_11{
+fill: none;
+stroke: #000;
+stroke-width: 1.099;
+stroke-linecap: square;
+stroke-miterlimit: 10;
+}
+.g1_11{
+fill: #000;
+}
+.g2_11{
+fill: none;
+stroke: #000;
+stroke-width: 0.961;
+stroke-linejoin: round;
+stroke-dasharray: 4,3;
+}
+.g3_11{
+fill: none;
+stroke: #000;
+stroke-width: 0.961;
+stroke-linejoin: round;
+}
+.g4_11{
+fill: none;
+stroke: #000;
+stroke-width: 3.363;
+stroke-linejoin: round;
+}
+.g5_11{
+fill: #FFF;
+}
+.g6_11{
+fill: none;
+stroke: #000;
+stroke-width: 0.864;
+stroke-linejoin: round;
+}
+.g7_11{
+fill: none;
+stroke: #9FA0A0;
+stroke-width: 0.864;
+stroke-linejoin: round;
+}
+]]></style>
+</defs>
+<image clip-path="url(#c0_11)" preserveAspectRatio="none" x="-4" y="1212" width="952" height="131" xlink:href="img/1.jpg"/>
+<path d="M556.8 73.9H525.6M181.1 101.4h-30m400.7 0H520.7M182.2 128.9H151.1" class="g0_11"/>
+<path d="M682.7 286.9h36.7V286H682.7v.9Z" class="g1_11"/>
+<path d="M101.9 320.1H72.4m85.8 0H125m269.7 55H365.4m81.7 0H417.6" class="g0_11"/>
+<image clip-path="url(#c1_11)" preserveAspectRatio="none" x="131" y="406" width="127" height="104" xlink:href="img/2.jpg"/>
+<image clip-path="url(#c2_11)" preserveAspectRatio="none" x="362" y="477" width="142" height="38" xlink:href="img/3.jpg"/>
+<path d="M583.2 739.2H552.6m90 0H611.1M213.9 772.6H184.4m82.9 0H236.9m-69.9 57H137.5m110.4 0H218.4m118.7 0H306.5m127.6 0H402.6" class="g0_11"/>
+<path d="M333.5 974.6h36.7v-.9H333.5v.9Z" class="g1_11"/>
+<image preserveAspectRatio="none" x="604" y="401" width="194" height="156" xlink:href="img/4.jpg"/>
+<image preserveAspectRatio="none" x="43" y="761" width="57" height="57" xlink:href="img/5.jpg"/>
+<image preserveAspectRatio="none" x="714" y="733" width="133" height="138" xlink:href="img/6.jpg"/>
+<image preserveAspectRatio="none" x="712" y="908" width="144" height="131" xlink:href="img/7.jpg"/>
+<image preserveAspectRatio="none" x="43" y="938" width="57" height="56" xlink:href="img/8.jpg"/>
+<path d="M857.3 135.8v0l-.3 4.7l-.8 4.5l-1.1 4.4l-1.7 4.3l-1.9 4.2l-2.2 3.9l-2.5 3.3l-3.1 3.4l-3.4 3.1l-3.5 2.5l-3.9 2.5l-3.9 2l-4.2 1.3l-4.4 1.5l-4.8 .5l-4.7 .3l-4.7 -.3l-4.4 -.5l-4.4 -1.5l-4.5 -1.3l-3.9 -2l-3.8 -2.5l-3.7 -2.5l-3.1 -3.1l-2.9 -3.4l-2.8 -3.3l-2.2 -3.9l-2.1 -4.2l-1.6 -4.3L765.7 145l-.5 -4.5l-.3 -4.7l.3 -4.8l.5 -4.7l1.1 -4.5l1.6 -4.2l2.1 -4.2l2.2 -3.7l2.8 -3.5l2.9 -3.4l3.1 -3.1l3.7 -2.5L789 94.6l3.9 -1.9l4.5 -1.4l4.4 -1.1l4.4 -.8l4.7 -.3l4.7 .3l4.8 .8l4.4 1.1l4.2 1.4l3.9 1.9l3.9 2.6l3.5 2.5l3.4 3.1l3.1 3.4l2.5 3.5l2.2 3.7l1.9 4.2l1.7 4.2l1.1 4.5l.8 4.7l.3 4.8Z" class="g2_11"/>
+<path d="M674.9 182.2L648.6 97.4l53.5 75.9m19 -37.5v4.7l-.9 4.5l-1.2 4.4l-1.6 4.3l-1.9 4.2l-2.2 3.9l-2.8 3.3l-2.8 3.4l-3.4 3.1l-3.5 2.5l-4 2.5l-3.8 2l-4.1 1.3l-4.5 1.5l-4.8 .5l-4.7 .3l-4.7 -.3l-4.4 -.5l-4.4 -1.5l-4.5 -1.3l-3.9 -2l-3.8 -2.5l-3.7 -2.5l-3.3 -3.1l-2.7 -3.4l-2.8 -3.3l-2.2 -3.9l-2 -4.2l-1.7 -4.3L629.7 145l-.5 -4.5l-.3 -4.7l.3 -4.8l.5 -4.7l1.1 -4.5l1.7 -4.2l2 -4.2l2.2 -3.7l2.8 -3.5l2.7 -3.4l3.3 -3.1l3.7 -2.5L653 94.6l3.9 -1.9l4.5 -1.4l4.4 -1.1l4.4 -.8l4.7 -.3l4.7 .3l4.8 .8l4.5 1.1l4.1 1.4l3.8 1.9l4 2.6l3.5 2.5l3.4 3.1l2.8 3.4l2.8 3.5l2.2 3.7l1.9 4.2l1.6 4.2l1.2 4.5l.9 4.7v4.8m89.8 46.4L784.6 97.4l53.5 75.9" class="g3_11"/>
+<path d="M732.4 138h17.2" class="g4_11"/>
+<path d="M748.3 133l8.5 5l-8.5 5Z" class="g1_11"/>
+<path d="M784.6 97.7h4.7l4.4 .9l4.5 1.1l4.4 1.4l3.9 2l3.9 2.2l3.6 2.8l3.4 3.1l3 3.1l2.5 3.6l2.5 3.9l1.9 3.9l1.4 4.5l1.4 4.2l.5 4.8l.3 4.7v2.8l-.3 3l-.5 2.8l-.5 2.8l-.6 2.6l-1.1 2.8l-2.3 5l-2.7 4.7l-3.3 4.2l-4 4l-4.1 3.6Z" class="g5_11"/>
+<path d="M810.9 182.2v0l4.7 -.3l4.8 -.5l4.4 -1.5l4.2 -1.3l3.9 -2l3.9 -2.5l3.5 -2.5l3.4 -3.1l3.1 -3.4l2.5 -3.3l2.2 -3.9l1.9 -4.2l1.7 -4.3l1.1 -4.4l.8 -4.5l.3 -4.7L857 131l-.8 -4.7l-1.1 -4.5l-1.7 -4.2l-1.9 -4.2l-2.2 -3.7l-2.5 -3.5l-3.1 -3.4l-3.4 -3.1l-3.5 -2.5l-3.9 -2.6L829 92.7l-4.2 -1.4l-4.4 -1.1l-4.8 -.8l-4.7 -.3l-3.5 .3l-3.7 .2l-3.3 .9l-3.6 .8l-3.4 1.1l-3 1.8l-3 1.6l-2.8 1.6l26.3 84.8" class="g3_11"/>
+<path d="M784.6 97.7v0h4.7l4.4 .9l4.5 1.1l4.4 1.4l3.9 2l3.9 2.2l3.6 2.8l3.4 3.1l3 3.1l2.5 3.6l2.5 3.9l1.9 3.9l1.4 4.5l1.4 4.2l.5 4.8l.3 4.7v2.8l-.3 3l-.5 2.8l-.5 2.8l-.6 2.6l-1.1 2.8l-2.3 5l-2.7 4.7l-3.3 4.2l-4 4l-4.1 3.6" class="g6_11"/>
+<path d="M784.6 97.4l43.8 62.1" class="g7_11"/>
+</svg>

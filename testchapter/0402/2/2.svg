@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 909 1286" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath id="c0_2"><path d="M-.2 1286.6v-75.1h910v75.1Z"/></clipPath>
+<style type="text/css"><![CDATA[
+.g0_2{
+fill: #000;
+}
+.g1_2{
+fill: none;
+stroke: #000;
+stroke-width: 0.763;
+stroke-linecap: square;
+stroke-miterlimit: 10;
+}
+.g2_2{
+fill: none;
+stroke: #000;
+stroke-width: 1.099;
+stroke-linecap: square;
+stroke-miterlimit: 10;
+}
+]]></style>
+</defs>
+<image clip-path="url(#c0_2)" preserveAspectRatio="none" x="-2" y="1212" width="930" height="127" xlink:href="img/1.jpg"/>
+<path d="M215.8 284.8h18.3v-.9H215.8v.9Z" class="g0_2"/>
+<path d="M688.6 284.8H707v-.9H688.6v.9Z" class="g0_2"/>
+<path d="M128.9 767.8h36.7v-.9H128.9v.9Z" class="g0_2"/>
+<path d="M286.8 887.3h38m24.6 0h47.5m25.9 0h35.4" class="g1_2"/>
+<path d="M151.3 931.1h9.2m61.2 0h9.1" class="g2_2"/>
+<path d="M109.4 1022.7H146v-.9H109.4v.9Z" class="g0_2"/>
+<path d="M164.4 1022.7H201v-.9H164.4v.9Z" class="g0_2"/>
+<path d="M474.7 1022.7h36.8v-.9H474.7v.9Z" class="g0_2"/>
+<path d="M730.2 1022.7H767v-.9H730.2v.9Z" class="g0_2"/>
+<path d="M254.9 1046.6h36.7v-1H254.9v1Z" class="g0_2"/>
+<path d="M364.9 1046.6h36.7v-1H364.9v1Z" class="g0_2"/>
+<image preserveAspectRatio="none" x="625" y="77" width="233" height="88" xlink:href="img/2.jpg"/>
+<image preserveAspectRatio="none" x="43" y="91" width="57" height="56" xlink:href="img/3.jpg"/>
+<image preserveAspectRatio="none" x="43" y="282" width="57" height="57" xlink:href="img/4.jpg"/>
+<image preserveAspectRatio="none" x="43" y="623" width="57" height="56" xlink:href="img/5.jpg"/>
+<image preserveAspectRatio="none" x="43" y="765" width="57" height="57" xlink:href="img/6.jpg"/>
+<image preserveAspectRatio="none" x="43" y="895" width="57" height="56" xlink:href="img/7.jpg"/>
+<image preserveAspectRatio="none" x="43" y="1021" width="57" height="56" xlink:href="img/8.jpg"/>
+</svg>

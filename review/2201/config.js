@@ -1,0 +1,1 @@
+IDRViewer.config = {"pagecount":1,"title":" ","author":"Asus","subject":"","keywords":"","creator":"Acrobat PDFMaker 23 Word 版","producer":"Adobe PDF Library 23.3.247","creationdate":"D:20240717084209+08'00'","moddate":"D:20240717084210+08'00'","trapped":"","fileName":"2201.pdf","bounds":[[909,1286]],"bookmarks":[],"thumbnailType":"jpg","pageType":"html","pageLabels":[]};

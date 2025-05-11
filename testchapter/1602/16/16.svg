@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 909 1286" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath id="c0_16"><path d="M-.2 1286.6v-74.9h910v74.9Z"/></clipPath>
+<clipPath id="c1_16"><path d="M707.5 171.8V78H854v93.8Z"/></clipPath>
+<clipPath id="c2_16"><path d="M699.1 1127.7v-80.1H836.4v80.1Z"/></clipPath>
+<style type="text/css"><![CDATA[
+.g0_16{
+fill: none;
+stroke: #000;
+stroke-width: 1.099;
+stroke-linecap: square;
+stroke-miterlimit: 10;
+}
+.g1_16{
+fill: none;
+stroke: #000;
+stroke-width: 1.197;
+stroke-linejoin: round;
+}
+.g2_16{
+fill: none;
+stroke: #000;
+stroke-width: 1.197;
+stroke-linecap: round;
+stroke-linejoin: round;
+}
+]]></style>
+</defs>
+<image clip-path="url(#c0_16)" preserveAspectRatio="none" x="-4" y="1212" width="952" height="131" xlink:href="img/1.jpg"/>
+<path d="M301.2 869.2H270.1m127.6 0H365.4m163.5 0H498.7m180.4 0H645.9m165.5 0H780.3M486.4 1071.8H453.2m144.7 0h-31m-425 33.3H109.8m126.7 0H206.4m112.6 0H286.9m113.7 0H369.4" class="g0_16"/>
+<image preserveAspectRatio="none" x="24" y="772" width="822" height="39" xlink:href="img/2.png"/>
+<image clip-path="url(#c1_16)" preserveAspectRatio="none" x="708" y="78" width="146" height="93" xlink:href="img/3.jpg"/>
+<image preserveAspectRatio="none" x="44" y="89" width="56" height="57" xlink:href="img/4.jpg"/>
+<image preserveAspectRatio="none" x="700" y="206" width="141" height="112" xlink:href="img/5.jpg"/>
+<image preserveAspectRatio="none" x="44" y="227" width="56" height="57" xlink:href="img/6.jpg"/>
+<image preserveAspectRatio="none" x="44" y="367" width="56" height="56" xlink:href="img/7.jpg"/>
+<image preserveAspectRatio="none" x="44" y="509" width="56" height="57" xlink:href="img/8.jpg"/>
+<image clip-path="url(#c2_16)" preserveAspectRatio="none" x="699" y="1048" width="137" height="79" xlink:href="img/9.jpg"/>
+<path d="M710.4 937.4L755.8 991l49 -51.5" class="g1_16"/>
+<path d="M660.6 991l98 -105.9L849.4 991H660.6Z" class="g2_16"/>
+<path d="M804.8 905v101M710.4 905v101" class="g1_16"/>
+</svg>

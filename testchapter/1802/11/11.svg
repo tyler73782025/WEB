@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 909 1286" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath id="c0_11"><path d="M-.2 1286.6v-74.9h910v74.9Z"/></clipPath>
+<clipPath id="c1_11"><path d="M654.3 480.2V391.7H854.2v88.5Z"/></clipPath>
+<clipPath id="c2_11"><path d="M644.8 1006.9v-88H858v88Z"/></clipPath>
+<style type="text/css"><![CDATA[
+.g0_11{
+fill: none;
+stroke: #000;
+stroke-width: 0.763;
+stroke-linecap: square;
+stroke-miterlimit: 10;
+}
+.g1_11{
+fill: none;
+stroke: #000;
+stroke-width: 0.765;
+stroke-linecap: square;
+stroke-miterlimit: 10;
+}
+.g2_11{
+fill: none;
+stroke: #000;
+stroke-width: 0.761;
+stroke-linecap: square;
+stroke-miterlimit: 10;
+}
+]]></style>
+</defs>
+<image clip-path="url(#c0_11)" preserveAspectRatio="none" x="-4" y="1212" width="952" height="131" xlink:href="img/1.jpg"/>
+<image clip-path="url(#c1_11)" preserveAspectRatio="none" x="655" y="392" width="199" height="88" xlink:href="img/2.jpg"/>
+<image preserveAspectRatio="none" x="718" y="729" width="133" height="118" xlink:href="img/3.jpg"/>
+<path d="M315.3 217.1h24.9" class="g0_11"/>
+<path d="M365.8 217.3h24.3" class="g1_11"/>
+<path d="M403.9 244.7h22.3m25 .1h24.9m25.6 0h23.2m25.6 0h25.2" class="g0_11"/>
+<path d="M230.9 756.1h24.4" class="g1_11"/>
+<path d="M497.2 756.2h21.5m25.8 0h22.3" class="g2_11"/>
+<path d="M151.8 783.7h24.4" class="g1_11"/>
+<path d="M369.7 783.7h28.6" class="g0_11"/>
+<path d="M136.1 811.6h28.7m186.7 0h28.7" class="g1_11"/>
+<path d="M476.1 914.3h25.2" class="g0_11"/>
+<path d="M599.9 914.3h23.8M128.9 941.8h23.3" class="g1_11"/>
+<path d="M205.3 941.7h24.6m53.4 0h24.6" class="g0_11"/>
+<image preserveAspectRatio="none" x="712" y="71" width="144" height="104" xlink:href="img/4.jpg"/>
+<image preserveAspectRatio="none" x="43" y="90" width="57" height="57" xlink:href="img/5.jpg"/>
+<image preserveAspectRatio="none" x="43" y="237" width="57" height="57" xlink:href="img/6.jpg"/>
+<image preserveAspectRatio="none" x="690" y="205" width="141" height="149" xlink:href="img/7.jpg"/>
+<image preserveAspectRatio="none" x="43" y="585" width="57" height="57" xlink:href="img/8.jpg"/>
+<image preserveAspectRatio="none" x="723" y="561" width="133" height="144" xlink:href="img/9.jpg"/>
+<image preserveAspectRatio="none" x="43" y="410" width="57" height="56" xlink:href="img/10.jpg"/>
+<image preserveAspectRatio="none" x="43" y="750" width="57" height="56" xlink:href="img/11.jpg"/>
+<image preserveAspectRatio="none" x="43" y="933" width="57" height="57" xlink:href="img/12.jpg"/>
+<image clip-path="url(#c2_11)" preserveAspectRatio="none" x="645" y="919" width="213" height="88" xlink:href="img/13.jpg"/>
+<image preserveAspectRatio="none" x="43" y="1080" width="57" height="56" xlink:href="img/14.jpg"/>
+</svg>

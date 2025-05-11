@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 909 1286" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath id="c0_5"><path d="M-.2 1286.6v-75.1h910v75.1Z"/></clipPath>
+<clipPath id="c1_5"><path d="M709.6 1223V1112.3h144V1223Z"/></clipPath>
+<style type="text/css"><![CDATA[
+.g0_5{
+fill: none;
+stroke: #000;
+stroke-width: 0.763;
+stroke-linecap: square;
+stroke-miterlimit: 10;
+}
+.g1_5{
+fill: none;
+stroke: #000;
+stroke-width: 0.76;
+stroke-linecap: square;
+stroke-miterlimit: 10;
+}
+.g2_5{
+fill: #000;
+}
+.g3_5{
+fill: none;
+stroke: #000;
+stroke-width: 0.907;
+stroke-linecap: square;
+stroke-miterlimit: 10;
+}
+]]></style>
+</defs>
+<image clip-path="url(#c0_5)" preserveAspectRatio="none" x="-2" y="1212" width="930" height="127" xlink:href="img/1.jpg"/>
+<path d="M168.6 212.8h11.1m244.6 0h11.1" class="g0_5"/>
+<path d="M661.6 212.8h9.9" class="g1_5"/>
+<path d="M168.2 284h11.1m59.2 0h11.1m25.6 0h11.1m91.3 0h9.8m59.9 0h11.1m25.6 0h9.9" class="g0_5"/>
+<path d="M408.5 491.9h36.6V491H408.5v.9Z" class="g2_5"/>
+<path d="M408.5 493.7h36.6v-.9H408.5v.9Z" class="g2_5"/>
+<path d="M136.1 518.3h11.6m25.1 0h10.8m114.5 0h11.7m25 0h10.8" class="g0_5"/>
+<path d="M165.6 610.3h36.6v-.9H165.6v.9Z" class="g2_5"/>
+<path d="M220.6 610.3h36.6v-.9H220.6v.9Z" class="g2_5"/>
+<path d="M343.8 658.1h36.7v-.9H343.8v.9Z" class="g2_5"/>
+<path d="M343.8 659.9h36.7V659H343.8v.9Z" class="g2_5"/>
+<path d="M111.6 753h36.6v-.9H111.6v.9Z" class="g2_5"/>
+<path d="M110.6 895.7h36.6v-.9H110.6v.9Z" class="g2_5"/>
+<path d="M165.6 895.7h36.6v-.9H165.6v.9Z" class="g2_5"/>
+<path d="M477.2 895.7h36.7v-.9H477.2v.9Z" class="g2_5"/>
+<path d="M369.6 919.5h36.7v-.9H369.6v.9Z" class="g2_5"/>
+<path d="M133.7 943.3h36.7v-.9H133.7v.9Z" class="g2_5"/>
+<path d="M259 943.3h36.7v-.9H259v.9Z" class="g2_5"/>
+<path d="M550.5 1014.5h36.7v-.9H550.5v.9Z" class="g2_5"/>
+<path d="M550.5 1016.3h36.7v-.9H550.5v.9Z" class="g2_5"/>
+<path d="M209.4 1041.2h11.5m576.3 0h11.5" class="g3_5"/>
+<path d="M110.6 1133h36.6v-.9H110.6v.9Z" class="g2_5"/>
+<image preserveAspectRatio="none" x="44" y="88" width="56" height="57" xlink:href="img/2.jpg"/>
+<image preserveAspectRatio="none" x="44" y="220" width="56" height="56" xlink:href="img/3.jpg"/>
+<image preserveAspectRatio="none" x="44" y="373" width="56" height="57" xlink:href="img/4.jpg"/>
+<image preserveAspectRatio="none" x="44" y="489" width="56" height="56" xlink:href="img/5.jpg"/>
+<image preserveAspectRatio="none" x="44" y="610" width="56" height="56" xlink:href="img/6.jpg"/>
+<image preserveAspectRatio="none" x="671" y="588" width="169" height="102" xlink:href="img/7.jpg"/>
+<image preserveAspectRatio="none" x="44" y="750" width="56" height="56" xlink:href="img/8.jpg"/>
+<image preserveAspectRatio="none" x="44" y="893" width="56" height="56" xlink:href="img/9.jpg"/>
+<image preserveAspectRatio="none" x="44" y="1013" width="56" height="56" xlink:href="img/10.jpg"/>
+<image clip-path="url(#c1_5)" preserveAspectRatio="none" x="710" y="1113" width="143" height="110" xlink:href="img/11.jpg"/>
+<image preserveAspectRatio="none" x="44" y="1130" width="56" height="57" xlink:href="img/12.jpg"/>
+</svg>

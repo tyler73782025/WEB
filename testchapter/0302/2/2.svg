@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 909 1286" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath id="c0_2"><path d="M-.2 1286.6v-75.1h910v75.1Z"/></clipPath>
+<style type="text/css"><![CDATA[
+.g0_2{
+fill: none;
+stroke: #000;
+stroke-width: 1.099;
+stroke-linecap: square;
+stroke-miterlimit: 10;
+}
+.g1_2{
+fill: #000;
+}
+]]></style>
+</defs>
+<image clip-path="url(#c0_2)" preserveAspectRatio="none" x="-2" y="1212" width="930" height="127" xlink:href="img/1.jpg"/>
+<path d="M159.7 90.5h9.1M157.4 327.4h35.7m18.3 0h44.8m118.4 46.4h63.2m55.3 0h63.1" class="g0_2"/>
+<path d="M110.6 468.8h36.6v-.9H110.6v.9Z" class="g1_2"/>
+<path d="M110.6 733.6h36.6v-.9H110.6v.9Z" class="g1_2"/>
+<path d="M505.7 855.1h9.2M137.6 922.5h9.2m155.3 0h9.2m206.2 0h9.1m168.6 0h9.2m56.2 94.4h9.1m-528.3 43.6h9.1M137.6 1128h9.2m26.5 0h9.1m210.8 0h9.2m26.4 0H438m-301.4 43.8h9.2m26.4 0h9.2m212.9 0h9.1m26.4 0H439" class="g0_2"/>
+<image preserveAspectRatio="none" x="43" y="207" width="57" height="56" xlink:href="img/2.jpg"/>
+<image preserveAspectRatio="none" x="43" y="339" width="57" height="56" xlink:href="img/3.jpg"/>
+<image preserveAspectRatio="none" x="43" y="467" width="57" height="56" xlink:href="img/4.jpg"/>
+<image preserveAspectRatio="none" x="43" y="586" width="57" height="56" xlink:href="img/5.jpg"/>
+<image preserveAspectRatio="none" x="43" y="731" width="57" height="57" xlink:href="img/6.jpg"/>
+<image preserveAspectRatio="none" x="43" y="867" width="57" height="56" xlink:href="img/7.jpg"/>
+<image preserveAspectRatio="none" x="43" y="1027" width="57" height="57" xlink:href="img/8.jpg"/>
+</svg>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 909 1286" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath id="c0_3"><path d="M-.2 1286.6v-75.1h910v75.1Z"/></clipPath>
+<style type="text/css"><![CDATA[
+.g0_3{
+fill: none;
+stroke: #000;
+stroke-width: 0.763;
+stroke-linecap: square;
+stroke-miterlimit: 10;
+}
+.g1_3{
+fill: #000;
+}
+.g2_3{
+fill: none;
+stroke: #000;
+stroke-width: 0.761;
+stroke-linecap: square;
+stroke-miterlimit: 10;
+}
+.g3_3{
+fill: none;
+stroke: #000;
+stroke-width: 0.766;
+stroke-linecap: square;
+stroke-miterlimit: 10;
+}
+]]></style>
+</defs>
+<image clip-path="url(#c0_3)" preserveAspectRatio="none" x="-2" y="1212" width="930" height="127" xlink:href="img/1.jpg"/>
+<path d="M193.2 117.8h45.2m25 0h45M193.2 236.7h43.2m25.5 0h58.8" class="g0_3"/>
+<path d="M110 427.3h36.7v-1H110v1Z" class="g1_3"/>
+<path d="M164.5 427.3h36.6v-1H164.5v1Z" class="g1_3"/>
+<path d="M475.6 427.3h36.6v-1H475.6v1Z" class="g1_3"/>
+<path d="M676 427.3h36.7v-1H676v1Z" class="g1_3"/>
+<path d="M840.4 427.3h18.2v-1H840.4v1Z" class="g1_3"/>
+<path d="M108.3 451.1h18.3v-.9H108.3v.9Z" class="g1_3"/>
+<path d="M144.9 451.1h36.7v-.9H144.9v.9Z" class="g1_3"/>
+<path d="M107.5 620.9h36.7v-1H107.5v1Z" class="g1_3"/>
+<path d="M162.5 620.9h36.7v-1H162.5v1Z" class="g1_3"/>
+<path d="M133 668.6h36.7v-.9H133v.9Z" class="g1_3"/>
+<path d="M334.7 668.6h36.6v-.9H334.7v.9Z" class="g1_3"/>
+<path d="M460 668.6h36.6v-.9H460v.9Z" class="g1_3"/>
+<path d="M661.6 668.6h36.7v-.9H661.6v.9Z" class="g1_3"/>
+<path d="M403.9 766.9h36.6V766H403.9v.9Z" class="g1_3"/>
+<path d="M109.9 912.8h36.7v-.9H109.9v.9Z" class="g1_3"/>
+<path d="M675.3 912.8H712v-.9H675.3v.9Z" class="g1_3"/>
+<path d="M154.7 939.5h18.2m76.3 0h18.3" class="g0_3"/>
+<path d="M136.8 1085.2h19.7" class="g2_3"/>
+<path d="M280 1085.2h19.7m123.5 0h18.3" class="g0_3"/>
+<path d="M566 1085.2h18.3" class="g3_3"/>
+<image preserveAspectRatio="none" x="43" y="91" width="57" height="57" xlink:href="img/2.jpg"/>
+<image preserveAspectRatio="none" x="43" y="426" width="57" height="56" xlink:href="img/3.jpg"/>
+<image preserveAspectRatio="none" x="534" y="526" width="321" height="109" xlink:href="img/4.jpg"/>
+<image preserveAspectRatio="none" x="43" y="548" width="57" height="56" xlink:href="img/5.jpg"/>
+<image preserveAspectRatio="none" x="43" y="767" width="57" height="56" xlink:href="img/6.jpg"/>
+<image preserveAspectRatio="none" x="43" y="915" width="57" height="56" xlink:href="img/7.jpg"/>
+<image preserveAspectRatio="none" x="43" y="1034" width="57" height="56" xlink:href="img/8.jpg"/>
+<image preserveAspectRatio="none" x="43" y="1179" width="57" height="56" xlink:href="img/9.jpg"/>
+</svg>
